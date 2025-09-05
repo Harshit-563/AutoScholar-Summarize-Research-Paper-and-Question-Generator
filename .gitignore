@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+
+# Generated outputs
+outputs/
+tmp_upload.pdf
+
+# Editor files
+.vscode/
+
+# Python junk
+__pycache__/
+*.pyc
+.env
