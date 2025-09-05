@@ -1,0 +1,37 @@
+{
+  "summary": "in this paper , we present an algorithm for the automatic detection of clauses in a contract . <n> the algorithm is based on the following three steps : ( i ) the text of the contract , ( ii ) a clause detection algorithm , and ( iii ) an identification algorithm . in the first step , <n> we introduce a text - based algorithm that detects the clauses in the contract and identifies the clauses that are not in agreement with the law . for this purpose <n> , the text is first filtered through a set of clauses , then filtered through the set of all other clauses . at the end , a list of all clauses is generated , which is then passed to the detection algorithm that identifies the clause that is not in accordance with the laws of the law and the agreement between the parties . the second step is used for the identification of the clauses of the agreement . finally , for this reason , our detection algorithm is able to detect all clauses in an agreement , without the need for the users to provide any additional information . [ [ keywords ] ] keywords : + + + _ automatic clause detection _ <n> + + [ [ ams -",
+  "questions": [
+    {
+      "question": "What is the purpose of this paper?",
+      "answer": "In this paper, we present an algorithm for the automatic detection of clauses in a contract."
+    },
+    {
+      "question": "What is the algorithm based on?",
+      "answer": "The algorithm is based on the following three steps: ( i ) the text of the contract , ( ii ) a clause"
+    },
+    {
+      "question": "What is the first step of the automatic clause detection algorithm?",
+      "answer": "In the first step, we introduce a text based algorithm that detects the clauses in the contract and identifies the clauses that are not"
+    },
+    {
+      "question": "How is the text of the contract filtered?",
+      "answer": "The text is first filtered through a set of clauses, then filtered through the set of all other clauses."
+    },
+    {
+      "question": "What happens when a list of all clauses is generated?",
+      "answer": "The detection algorithm identifies clauses that are not in accordance with the laws of the law and the agreement between the parties ."
+    },
+    {
+      "question": "What is the second step used for?",
+      "answer": "The second step is used for the identification of the clauses of the agreement."
+    },
+    {
+      "question": "How does the algorithm detect all clauses in an agreement?",
+      "answer": "Our detection algorithm is able to detect all clauses in an agreement without the need for the users to provide any additional information."
+    },
+    {
+      "question": "What is the first step of the automatic clause detection algorithm?",
+      "answer": "+ + + _ automatic clause detection?"
+    }
+  ]
+}
