@@ -3,6 +3,9 @@ from src.pdf_utils import extract_text_from_pdf
 from src.pipeline import SummarizeAndQG
 from pathlib import Path
 import json, os
+import warnings
+warnings.filterwarnings("ignore")
+
 
 st.set_page_config(page_title="AutoScholar", page_icon="📚", layout="wide")
 st.title("📚 AutoScholar — Summarize Papers & Generate Questions")

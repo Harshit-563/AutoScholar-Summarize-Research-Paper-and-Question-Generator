@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoScholar: Research Paper Summarization & Question Generation
 
 End-to-end pipeline to:
@@ -69,3 +70,6 @@ research_summarizer_qg/
 - PEGASUS: https://arxiv.org/abs/1912.08777
 - FactPEGASUS: https://aclanthology.org/2022.naacl-main.74/
 - T5 QG (baseline ideas): https://arxiv.org/abs/1910.10683
+=======
+# AutoScholar-Summarize-Research-Paper-and-Question-Generator
+>>>>>>> 48b3b7696a2568f95884b05c4dbb9a1a108f688c
