@@ -1,11 +1,6 @@
 # 📚 AutoScholar – Research Paper Summarizer & Question Generator  
 
-An AI-powered Streamlit app that summarizes research papers and generates quiz questions automatically.  
-
----
-
-## 🚀 Demo
-[Try it here](https://your-streamlit-app-link.streamlit.app)  
+An AI-powered Streamlit app that summarizes research papers and generates quiz questions automatically.   
 
 ---
 
